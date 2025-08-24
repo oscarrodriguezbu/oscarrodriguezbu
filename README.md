@@ -2,7 +2,7 @@
   <img src="./assets/3f00b9ac-280a-4079-96f9-a5d03f5b1321-edited-giphy.gif" alt="Oscar Rodriguez - Full Stack Developer" />
 </p>
 <h1>  
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="30px"> Hi! My Name is Oscar Leonardo Rodriguez Bustos  
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="30px"> Hi! My name is Oscar Leonardo Rodriguez Bustos  
 </h1>
 <h2> 
     Systems engineer | Full Stack Developer | Frontend Developer | MERN Stack | MEAN Stack 🎨
